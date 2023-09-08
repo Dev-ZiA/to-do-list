@@ -1,7 +1,7 @@
-const List = () =>{
+const List = ({task}: any) =>{
     return(
         <>
-            <h1>List</h1>
+            <li>{task}</li>
         </>
     );
 }

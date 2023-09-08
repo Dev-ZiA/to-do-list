@@ -1,9 +1,6 @@
 const AddItem = () =>{
     return(
-        <ul id="myUL">
-            <li>Hit the gym</li>
-            
-         </ul>
+        <></>
     );
 }
 

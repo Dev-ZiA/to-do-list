@@ -1,10 +1,15 @@
-import List from "./List";
+import ListItem from "./ListItem";
 
 const TodoList = () =>{
     return(
         <>
-           <h1>TodoList</h1>
-           <List/>
+        
+        <ul id="myUL">
+            <ListItem task="Pay the bills"/>
+            <ListItem task="Hit the gym"/>
+            <ListItem task="Meet mayodin"/>
+            <ListItem task="Outing"/>
+         </ul>
         </>
     );
 }
