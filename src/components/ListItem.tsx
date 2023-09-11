@@ -1,7 +1,8 @@
 const List = ({task}: any) =>{
+    const {title, isCompleted} = task
     return(
         <>
-            <li>{task}</li>
+            <li className={isCompleted ? "checked" : ""}>{title}</li>
         </>
     );
 }

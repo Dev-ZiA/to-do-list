@@ -83,7 +83,7 @@ ul li.checked::before {
 /* Style the header */
 .header {
   background-color: #f44336;
-  padding: 30px 40px;
+  padding: 30px 30px;
   color: white;
   text-align: center;
 }
@@ -118,6 +118,7 @@ input {
   cursor: pointer;
   transition: 0.3s;
   border-radius: 0;
+ 
 }
 
 .addBtn:hover {

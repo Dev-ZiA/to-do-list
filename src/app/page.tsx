@@ -5,8 +5,8 @@ export default function Home() {
   return (
     <main>
       <>
-        <Header/>
-        <TodoList/>
+        <Header />
+        <TodoList />
       </>
     </main>
   )
