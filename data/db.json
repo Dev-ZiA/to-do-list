@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "title": "Go for a walk",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "title": "Go for shopping ",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "Eat lunch",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "Go to colleage",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "title": "Meet Ahmed",
+      "completed": false,
+      "id": 5
+    }
+  ]
+}

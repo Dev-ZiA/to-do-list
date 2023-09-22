@@ -1,4 +1,6 @@
-const List = ({task}: any) =>{
+import React from 'react'
+
+const ListItem = ({task}: any) =>{
     const {title, isCompleted} = task
     return(
         <>
@@ -7,4 +9,4 @@ const List = ({task}: any) =>{
     );
 }
 
-export default List;
+export default ListItem;

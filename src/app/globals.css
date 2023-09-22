@@ -86,6 +86,7 @@ ul li.checked::before {
   padding: 30px 30px;
   color: white;
   text-align: center;
+  margin-top: 45px;
 }
 
 /* Clear floats after the header */
@@ -101,7 +102,7 @@ input {
   border: none;
   border-radius: 0;
   width: 75%;
-  padding: 10px;
+  padding: 11px;
   float: left;
   font-size: 16px;
 }
@@ -109,7 +110,7 @@ input {
 /* Style the "Add" button */
 .addBtn {
   padding: 10px;
-  width: 25%;
+  width: 20%;
   background: #d9d9d9;
   color: #555;
   float: left;
@@ -118,7 +119,7 @@ input {
   cursor: pointer;
   transition: 0.3s;
   border-radius: 0;
- 
+ margin-left: 20px ;
 }
 
 .addBtn:hover {
